@@ -27,6 +27,7 @@ import NationwideNaiagb21 from './banks/nationwide_naiagb21.js';
 import NbgEthngraaxxx from './banks/nbg_ethngraaxxx.js';
 import NorwegianXxNorwnok1 from './banks/norwegian_xx_norwnok1.js';
 import RevolutRevolt21 from './banks/revolut_revolt21.js';
+import SparebankSRBanksprono22 from './banks/sparebank_sr_bank_sprono22.js';
 import SebKortBankAb from './banks/seb_kort_bank_ab.js';
 import SebPrivat from './banks/seb_privat.js';
 import SandboxfinanceSfin0000 from './banks/sandboxfinance_sfin0000.js';
@@ -70,6 +71,7 @@ export const banks = [
   SebKortBankAb,
   SebPrivat,
   SandboxfinanceSfin0000,
+  SparebankSRBanksprono22,
   SparnordSpnodk22,
   SpkKarlsruheKarsde66,
   SpkMarburgBiedenkopfHeladef1mar,
@@ -127,6 +129,7 @@ export const BANKS_WITH_LIMITED_HISTORY = [
   'SELLA_PERSONAL_CREDIT_SELBIT22',
   'BANCOACTIVOBANK_ACTVPTPL',
   'SMARTIKA_SELBIT22',
+  'SPAREBANK_SR_BANK_SPRONO22',
   'SWEDBANK_HABAEE2X',
   'SWEDBANK_HABALT22',
   'SWEDBANK_HABALV22',
